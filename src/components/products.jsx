@@ -12,7 +12,7 @@ class Products extends Component {
         aisles: [],
         currentPage: 1,
         pageSize: 4,
-        sortColumn: {path: 'title', order: "asc"}
+        sortColumn: {path: 'name', order: "asc"}
     };
 
     componentDidMount() {
