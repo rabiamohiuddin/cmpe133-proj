@@ -4,8 +4,8 @@ import Table from '../common/table';
 
 class ProductsTable extends Component {
     columns = [
-        {path: 'title', label: 'Tile'},
-        {path: 'genre.name', label: 'Aisle'},
+        {path: 'name', label: 'Name'},
+        {path: 'aisle.name', label: 'Aisle'},
         {path: 'numberInStock', label: 'Stock'},
         {path: 'currentPrice', label: 'Price', content: product => (
             this.props.setPrice(product)
