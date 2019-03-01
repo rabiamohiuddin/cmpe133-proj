@@ -60,7 +60,7 @@ class Products extends Component {
     getPagedData = () => {
         const {pageSize, currentPage,sortColumn, selectedAisle, products: allProducts} = this.state;
         const filtered = selectedAisle && selectedAisle._id
-        ? allProducts.filter(m => m.genre._id === selectedAisle._id) 
+        ? allProducts.filter(m => m.aisle._id === selectedAisle._id) 
         : allProducts;
         
         const sorted = _.orderBy(filtered, [sortColumn.path], [sortColumn.order]);
