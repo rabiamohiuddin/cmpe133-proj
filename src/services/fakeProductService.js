@@ -216,6 +216,280 @@ const products = [
     basePrice: 19.19,
     salePrice: 0,
     currentPrice: 0
+  },
+  
+  
+  
+  
+  {
+    _id: "5b21ca3eeb7f6fbccd47181w",
+    name: "GoGo squeeZ Applesauce On The Go Apple Apple Pouches - 12-3.2 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471832", name: "Canned Items" },
+    numberInStock: 22,
+    basePrice: 8.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47181x",
+    name: "Campbells Soup Condensed Chicken Noodle - 10.75 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471832", name: "Canned Items" },
+    numberInStock: 21,
+    basePrice: 1.79,
+    salePrice: 0,
+    currentPrice: 0
+  },  
+  {
+    _id: "5b21ca3eeb7f6fbccd47181y",
+    name: "Progresso Traditional Soup Chicken Noodle - 19 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471832", name: "Canned Items" },
+    numberInStock: 25,
+    basePrice: 3.39,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47181z",
+    name: "Swanson Chicken Breast Premium Chunk White with Rib Meat - 12.5 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471832", name: "Canned Items" },
+    numberInStock: 37,
+    basePrice: 5.69,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182a",
+    name: "Bumble Bee Tuna Albacore Solid White in Water - 12 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471832", name: "Canned Items" },
+    numberInStock: 47,
+    basePrice: 5.49,
+    salePrice: 0,
+    currentPrice: 0
+  },  
+  {
+    _id: "5b21ca3eeb7f6fbccd47182b",
+    name: "Frito Lay Snacks Flavor Mix Bag - 18-1 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 27,
+    basePrice: 8.29,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182c",
+    name: "Cheez-It Crackers Baked Snack - 12.4 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 87,
+    basePrice: 5.69,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182d",
+    name: "The Snack Artist Cashews Whole Roasted & Salted - 36.4 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 75,
+    basePrice: 22.49,
+    salePrice: 0,
+    currentPrice: 0
+  },  
+  {
+    _id: "5b21ca3eeb7f6fbccd47182e",
+    name: "Blue Diamond Almonds Whole Natural - 16 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 37,
+    basePrice: 11.29,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182f",
+    name: "Pepperidge Farm Goldfish Crackers Baked Snack Cheddar Carton Bulk - 30 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 23,
+    basePrice: 9.49,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182g",
+    name: "Best Foods Real Mayonnaise - 30 Fl. Oz.",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471836", name: "Condiments, Spices, and Baking" },
+    numberInStock: 32,
+    basePrice: 6.89,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182h",
+    name: "Heinz Ketchup Tomato - 32 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471836", name: "Condiments, Spices, and Baking" },
+    numberInStock: 65,
+    basePrice: 4.69,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182i",
+    name: "C&H Sugar Granulated White Pure Cane - 4 Lb",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471836", name: "Condiments, Spices, and Baking" },
+    numberInStock: 29,
+    basePrice: 3.59,
+    salePrice: 0,
+    currentPrice: 0
+  },  
+  {
+    _id: "5b21ca3eeb7f6fbccd47182j",
+    name: "O Organics Organic Syrup 100% Pure Maple - 8.5 Fl. Oz.",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471836", name: "Condiments, Spices, and Baking" },
+    numberInStock: 54,
+    basePrice: 9.09,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182k",
+    name: "Star Olive Oil Extra Virgin - 17 Fl. Oz.",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471836", name: "Condiments, Spices, and Baking" },
+    numberInStock: 20,
+    basePrice: 8.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182l",
+    name: "ARROWHEAD Mountain Spring Water - 24-16.9 Fl. Oz.",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471838", name: "Beverages" },
+    numberInStock: 220,
+    basePrice: 5.69,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182m",
+    name: "Coke Diet Soda - 20-12 Fl. Oz.",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471838", name: "Beverages" },
+    numberInStock: 45,
+    basePrice: 7.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182n",
+    name: "LaCroix Sparkling Water Grapefruit Cans - 12-12 Fl. Oz.",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471838", name: "Beverages" },
+    numberInStock: 37,
+    basePrice: 6.89,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182o",
+    name: "Coca-Cola Classic Soda - 20-12 Fl. Oz.",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471838", name: "Beverages" },
+    numberInStock: 38,
+    basePrice: 7.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182p",
+    name: "Aquafina Purified Drinking Water - 24-16.9 Fl. Oz.",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471838", name: "Beverages" },
+    numberInStock: 37,
+    basePrice: 4.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182q",
+    name: "Huggies Baby Wipes Natural Care Fragrance Free Refill - 168 Count",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471840", name: "Baby Care" },
+    numberInStock: 27,
+    basePrice: 7.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182r",
+    name: "Huggies Natural Care Wipes Fragrance Free Refill - 184 Count",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471840", name: "Baby Care" },
+    numberInStock: 47,
+    basePrice: 7.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182s",
+    name: "PediaSure Grow & Gain Shake Chocolate - 6-8 Fl. Oz.",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471840", name: "Baby Care" },
+    numberInStock: 23,
+    basePrice: 11.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182t",
+    name: "Gerber 2nd Foods Baby Food Turkey & Turkey Gravy - 2.5 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471840", name: "Baby Care" },
+    numberInStock: 38,
+    basePrice: 1.59,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182u",
+    name: "Pedialyte AdvancedCare Electrolyte Solution Oral Cherry Punch - 1 Quart",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471840", name: "Baby Care" },
+    numberInStock: 48,
+    basePrice: 7.49,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182v",
+    name: "Ice Cubed Party Ice - 20 Lb",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471838", name: "Frozen Foods" },
+    numberInStock: 33,
+    basePrice: 6.89,
+    salePrice: 0,
+    currentPrice: 0
+  },
+   {
+    _id: "5b21ca3eeb7f6fbccd47182w",
+    name: "Jimmy Dean Sandwiches Croissant Sausage Egg & Cheese - 36 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471838", name: "Frozen Foods" },
+    numberInStock: 55,
+    basePrice: 11.29,
+    salePrice: 0,
+    currentPrice: 0
+  },
+   {
+    _id: "5b21ca3eeb7f6fbccd47182x",
+    name: "Signature Kitchens Blueberries Whole - 48 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471838", name: "Frozen Foods" },
+    numberInStock: 34,
+    basePrice: 11.29,
+    salePrice: 0,
+    currentPrice: 0
+  },
+   {
+    _id: "5b21ca3eeb7f6fbccd47182y",
+    name: "Freschetta Frozen Pizza Naturally Rising Crust Signature Pepperoni - 27.16 Oz",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471838", name: "Frozen Foods" },
+    numberInStock: 82,
+    basePrice: 7.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+   {
+    _id: "5b21ca3eeb7f6fbccd47182z",
+    name: "Drumstick Frozen Dairy Dessert Cones Vanilla 8 Cones - 36.8 Fl. Oz.",
+    aisle:  { _id: "5b21ca3eeb7f6fbccd471838", name: "Frozen Foods" },
+    numberInStock: 29,
+    basePrice: 6.99,
+    salePrice: 0,
+    currentPrice: 0
   }
 ];
 
