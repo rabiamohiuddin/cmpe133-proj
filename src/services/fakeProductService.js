@@ -1,4 +1,4 @@
-
+{
   {
     "_id": "5b21ca3eeb7f6fbccd47181a",
     "name": "Cheerios",
@@ -1152,3 +1152,4 @@
     "salePrice": 0,
     "currentPrice": 0
   }
+}
