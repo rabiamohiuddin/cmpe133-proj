@@ -1,6 +1,5 @@
-import * as aislesAPI from "./fakeAisleService";
+//import * as aislesAPI from "./fakeAisleService";
 
-const products = [
   {
     _id: "5b21ca3eeb7f6fbccd47181a",
     name: "Cheerios",
@@ -1154,6 +1153,7 @@ const products = [
     salePrice: 0,
     currentPrice: 0
   }
+/*
 ];
 
 export function getProducts() {
@@ -1184,3 +1184,4 @@ export function deleteProduct(id) {
   products.splice(products.indexOf(productInDb), 1);
   return productInDb;
 }
+*/
