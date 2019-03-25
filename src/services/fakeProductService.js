@@ -29,6 +29,96 @@ const products = [
     currentPrice:0
   }, 
   {
+    _id: "5b21ca3eeb7f6fbccd47181d",
+    title: "Fruity Pebbles",
+    genre: { _id: "5b21ca3eeb7f6fbccd471818", name: "Cereal" },
+    numberInStock: 17,
+    basePrice: 4.99,
+    salePrice: 2.5,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47181e",
+    title: "Cocoa Puffs",
+    genre: { _id: "5b21ca3eeb7f6fbccd471818", name: "Cereal" },
+    numberInStock: 34,
+    basePrice: 4.99,
+    salePrice: 2.5,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47181f",
+    title: "Reese's Puffs",
+    genre: { _id: "5b21ca3eeb7f6fbccd471818", name: "Cereal" },
+    numberInStock: 9,
+    basePrice: 4.99,
+    salePrice: 2.5,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47181g",
+    title: "Trix",
+    genre: { _id: "5b21ca3eeb7f6fbccd471818", name: "Cereal" },
+    numberInStock: 8,
+    basePrice: 4.99,
+    salePrice: 2.5,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47181h",
+    title: "Frosted Mini-Wheats Bite Size",
+    genre: { _id: "5b21ca3eeb7f6fbccd471818", name: "Cereal" },
+    numberInStock: 15,
+    basePrice: 4.99,
+    salePrice: 2.5,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47181i",
+    title: "Golden Grahams",
+    genre: { _id: "5b21ca3eeb7f6fbccd471818", name: "Cereal" },
+    numberInStock: 25,
+    basePrice: 4.99,
+    salePrice: 2.5,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47181j",
+    title: "Cap'n Crunch",
+    genre: { _id: "5b21ca3eeb7f6fbccd471818", name: "Cereal" },
+    numberInStock: 22,
+    basePrice: 4.99,
+    salePrice: 2.5,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47181k",
+    title: "Cinnamon Toast Crunch",
+    genre: { _id: "5b21ca3eeb7f6fbccd471818", name: "Cereal" },
+    numberInStock: 9,
+    basePrice: 4.99,
+    salePrice: 2.5,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47181l",
+    title: "Honey Nut Cheerios",
+    genre: { _id: "5b21ca3eeb7f6fbccd471818", name: "Cereal" },
+    numberInStock: 15,
+    basePrice: 4.99,
+    salePrice: 2.5,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47181m",
+    title: "Cocoa Pebbles",
+    genre: { _id: "5b21ca3eeb7f6fbccd471818", name: "Cereal" },
+    numberInStock: 15,
+    basePrice: 4.99,
+    salePrice: 2.5,
+    currentPrice: 0
+  },
+  {
     _id: "5b21ca3eeb7f6fbccd47182a",
     name: "Bananas - 1 lb",
     aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
@@ -70,6 +160,96 @@ const products = [
     aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
     numberInStock: 15,
     basePrice: 2.28,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182f",
+    name: "Peaches Yellow",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
+    numberInStock: 25,
+    basePrice: 2.30,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182g",
+    name: "Apples Fuji Large",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
+    numberInStock: 25,
+    basePrice: 1.45,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182h",
+    name: "Apples Honeycrisp",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
+    numberInStock: 27,
+    basePrice: 2.30,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182i",
+    name: "Apples Granny Smith Large",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
+    numberInStock: 11,
+    basePrice: 0.92,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182j",
+    name: "Watermelon Mini Seedless - Each",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
+    numberInStock: 10,
+    basePrice: 5.69,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182k",
+    name: "Kale Green Organic",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
+    numberInStock: 20,
+    basePrice: 2.89,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182l",
+    name: "Signature Farms Kale Cut Super Greens - 10 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
+    numberInStock: 12,
+    basePrice: 2.90,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182m",
+    name: "Eggplant Organic",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
+    numberInStock: 7,
+    basePrice: 3.39,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182n",
+    name: "Signature Farms Oranges Navel Prepacked - 8 Lb",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
+    numberInStock: 10,
+    basePrice: 7.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47182o",
+    name: "Lemons Large",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Produce" },
+    numberInStock: 15,
+    basePrice: 1.09,
     salePrice: 0,
     currentPrice: 0
   },
@@ -119,6 +299,96 @@ const products = [
     currentPrice: 0
   },
   {
+    _id: "5b21ca3eeb7f6fbccd47183f",
+    name: "Core Power Milk Shake High Protein Chocolate - 11.5 Fl. Oz.",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471824", name: "Health" },
+    numberInStock: 40,
+    basePrice: 3.39,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47183g",
+    name: "Core Power Milk Shake High Protein Vanilla - 11.5 Fl. Oz.",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471824", name: "Health" },
+    numberInStock: 40,
+    basePrice: 3.39,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47183h",
+    name: "MUSCLE MILK Protein Shake Non Dairy Chocolate - 4-11 Fl. Oz.",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471824", name: "Health" },
+    numberInStock: 12,
+    basePrice: 6.74,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47183i",
+    name: "Muscle Milk Vanilla Creme Dietary Supplement Protein Shake - 4-11 Fl. Oz.",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471824", name: "Health" },
+    numberInStock: 13,
+    basePrice: 6.74,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47183j",
+    name: "MUSCLE MILK 100 Calorie Protein Shake Non Dairy Vanilla Creme - 4-11 Fl. Oz.",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471824", name: "Health" },
+    numberInStock: 11,
+    basePrice: 6.74,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47183k",
+    name: "MUSCLE MILK Pro Series Protein Shake Non Dairy Knockout Chocolate - 4-11 Fl. Oz. ",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471824", name: "Health" },
+    numberInStock: 7,
+    basePrice: 7.49,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47183l",
+    name: "Flintstones Childrens Multivitamins Supplement Chewable Tablets Complete - 150 Count ",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471824", name: "Health" },
+    numberInStock: 20,
+    basePrice: 15.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47183m",
+    name: "Flintstones Childrens Multivitamins Supplement Chewable Tablets Complete - 60 Count ",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471824", name: "Health" },
+    numberInStock: 14,
+    basePrice: 13.59,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47183n",
+    name: "One A Day Mens Multivitamin/Multimineral Tablets Mens Health Formula - 100 Count ",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471824", name: "Health" },
+    numberInStock: 12,
+    basePrice: 12.49,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47183o",
+    name: "One A Day Multivitamin Womens Prenatal 1 Pill - 30 Count",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471824", name: "Health" },
+    numberInStock: 4,
+    basePrice: 15.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
     _id: "5b21ca3eeb7f6fbccd47184a",
     name: "Charmin Ultra Soft Bathroom Tissue Mega Rolls 2 Ply - 12 Roll",
     aisle:  { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
@@ -160,6 +430,97 @@ const products = [
     aisle:  { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
     numberInStock: 22,
     basePrice: 19.19,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47184f",
+    name: "Signature Home Gloves Flock Lined Medium - Each",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
+    numberInStock: 11,
+    basePrice: 3.89,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47184g",
+    name: "Signature Home Drop In Toilet Bowl Twin Pack Cleaner - 2 Count ",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
+    numberInStock: 12,
+    basePrice: 1.63,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47184h",
+    name: "Signature Home Brightly Paper Towels Lint Free Shine Big Roll 2 Ply Wrap ",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
+    numberInStock: 33,
+    basePrice: 5.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47184i",
+    name: "Signature Home Paper Towels Thirsty Strong & Absorbent Vari-A-Size",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
+    numberInStock: 25,
+    basePrice: 9.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47184j",
+    name: "Signature Home Paper Towels Brightly Lint-Free Shine Giant Roll 2-Ply ",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
+    numberInStock: 11,
+    basePrice: 4.59,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47184k",
+    name: "Signature Home Paper Towels Thirsty Strong & Absorbent Big Roll 84",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
+    numberInStock: 13,
+    basePrice: 5.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47184l",
+    name: "Signature Home Facial Tissue Softly Soft Touch 2-Ply White Box - 80",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
+    numberInStock: 25,
+    basePrice: 1.97,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47184m",
+    name: "Signature Home Dishwashing Liquid Ocean Lemon Bottle - 24 Fl. Oz.",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
+    numberInStock: 25,
+    basePrice: 1.79,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47184n",
+    name: "Signature Home Bathroom Tissue Soft & Absorbent 2-Ply Family Pack Bag - 30 Roll",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
+    numberInStock: 20,
+    basePrice: 18.09,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47184o",
+    name:
+      "Signature Home Furniture Polish Lemon Scented - 12.5 Oz ",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Home" },
+    numberInStock: 25,
+    basePrice: 5.19,
     salePrice: 0,
     currentPrice: 0
   },
@@ -219,8 +580,7 @@ const products = [
   },
   {
     _id: "5b21ca3eeb7f6fbccd47185g",
-    name:
-      "Whole Earth Farms Grain Free Chicken & Turkey Canned Dog Food, 12.7 Oz., Case ",
+    name: "Whole Earth Farms Grain Free Chicken & Turkey Canned Dog Food, 12.7 Oz., Case ",
     aisle: { _id: "5b21ca3eeb7f6fbccd471832", name: "Canned Foods" },
     numberInStock: 11,
     basePrice: 29.88,
@@ -245,6 +605,96 @@ const products = [
     salePrice: 0,
     currentPrice: 0
   },  
+  {
+    _id: "5b21ca3eeb7f6fbccd47185j",
+    name: "Rosarita Beans Refried Traditional Can - 16 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Canned Foods" },
+    numberInStock: 30,
+    basePrice: 1.80,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47185k",
+    name: "O Organics Organic Canned Vegetable Pumpkin - 15 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Canned Foods" },
+    numberInStock: 15,
+    basePrice: 3.89,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47185l",
+    name: "Signature Kitchens Canned Coconut Milk Light - 13.5 Fl. Oz.",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Canned Foods" },
+    numberInStock: 11,
+    basePrice: 1.55,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47185m",
+    name: "Signature Kitchens Tomatoes Diced & Green Chilies Southwestern Style Can - 10 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Canned Foods" },
+    numberInStock: 11,
+    basePrice: 1.30,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47185n",
+    name: "CENTO San Marzano Tomatoes Organic Whole Peeled Can - 28 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Canned Foods" },
+    numberInStock: 11,
+    basePrice: 7.49,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47185o",
+    name: "Hormel Chili No Beans Can - 15 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Canned Foods" },
+    numberInStock: 11,
+    basePrice: 3.39,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47185p",
+    name: "BUSHS BEST Organic Beans Garbanzo Chick Peas Low Sodium Can - 15 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Canned Foods" },
+    numberInStock: 11,
+    basePrice: 2.29,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47185q",
+    name: "Campbells Well Yes! Soup Chicken Noodle Can - 16.2 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Canned Foods" },
+    numberInStock: 11,
+    basePrice: 3.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47185r",
+    name: "BUSHS BEST Organic Beans Black Low Sodium Can - 15 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Canned Foods" },
+    numberInStock: 11,
+    basePrice: 2.29,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47185s",
+    name: "Signature SELECT Beans Green Whole Can - 14.5 Oz ",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471828", name: "Canned Foods" },
+    numberInStock: 33,
+    basePrice: 1.09,
+    salePrice: 0,
+    currentPrice: 0
+  },
   {
     _id: "5b21ca3eeb7f6fbccd47186a",
     name: "Frito Lay Snacks Flavor Mix Bag - 18-1 Oz",
@@ -287,6 +737,96 @@ const products = [
     aisle:  { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
     numberInStock: 23,
     basePrice: 9.49,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47186f",
+    name: "M&Ms Chocolate Candies Milk Chocolate Family Size Resealable - 19.20 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 11,
+    basePrice: 5.99,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47186g",
+    name: "M&Ms Chocolate Candies Minis Milk Chocolate - 10.1 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 13,
+    basePrice: 5.69,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47186h",
+    name: "Pringles Potato Crisps The Original - 5.2 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 33,
+    basePrice: 2,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47186i",
+    name: "Pringles Potato Crisps BBQ Tube - 5.5 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 33,
+    basePrice: 2,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47186j",
+    name: "Pringles Crisps Sour Cream & Onion Mega Stack - 7.1 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 11,
+    basePrice: 2.50,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47186k",
+    name: "Pringles Potato Crisps Cheddar Cheese - 5.5 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 33,
+    basePrice: 2,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47186l",
+    name: "Signature Kitchens Candy Peach Rings - 7 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 15,
+    basePrice: 2.29,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47186m",
+    name: "Black Forest Gummy Worms - 4.5 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 12,
+    basePrice: 1.80,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47186n",
+    name: "Tootsie Roll Candy Midgees - 12 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 11,
+    basePrice: 2.50,
+    salePrice: 0,
+    currentPrice: 0
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd47186o",
+    name: "KIT KAT Crisp Wafers in Milk Chocolate Full Size - 6-1.5 Oz",
+    aisle: { _id: "5b21ca3eeb7f6fbccd471834", name: "Snacks and Candy" },
+    numberInStock: 10,
+    basePrice: 6.89,
     salePrice: 0,
     currentPrice: 0
   },
@@ -490,8 +1030,7 @@ const products = [
   },
   {
     _id: "5b21ca3eeb7f6fbccd47191c",
-    name:
-      "Lettieri's 6 Oz. Sausage, Egg, And Cheese Breakfast Sandwich - 12/Case",
+    name: "Lettieri's 6 Oz. Sausage, Egg, And Cheese Breakfast Sandwich - 12/Case",
     aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Bakery and Breakfast" },
     numberInStock: 13,
     basePrice: 23.49,
@@ -519,7 +1058,7 @@ const products = [
   {
     _id: "5b21ca3eeb7f6fbccd47191f",
     name: "Chips Ahoy!",
-    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Bakery and Breakfast" ,
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Bakery and Breakfast" },
     numberInStock: 7,
     basePrice: 4.39,
     salePrice: 2.99,
@@ -528,7 +1067,7 @@ const products = [
   {
     _id: "5b21ca3eeb7f6fbccd47191g",
     name: "Oreos",
-    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Bakery and Breakfast" ,
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Bakery and Breakfast" },
     numberInStock: 7,
     basePrice: 4.99,
     salePrice: 3.33,
@@ -537,7 +1076,7 @@ const products = [
   {
     _id: "5b21ca3eeb7f6fbccd47191h",
     name: "Newtons",
-    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Bakery and Breakfast" ,
+    aisle: { _id: "5b21ca3eeb7f6fbccd471822", name: "Bakery and Breakfast" },
     numberInStock: 7,
     basePrice: 5.99,
     salePrice: 5.49,
@@ -545,8 +1084,7 @@ const products = [
   },
   {
     _id: "5b21ca3eeb7f6fbccd47192a",
-    name:
-      "Pacific Natural Foods Organic Coconut Non-Dairy Beverage - Original | 32 Fl Oz ",
+    name: "Pacific Natural Foods Organic Coconut Non-Dairy Beverage - Original | 32 Fl Oz ",
     aisle: { _id: "5b21ca3eeb7f6fbccd471824", name: "Dairy, Eggs, and Cheese" },
     numberInStock: 15,
     basePrice: 2.58,
